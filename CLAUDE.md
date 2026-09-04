@@ -41,6 +41,17 @@ Conventions:
 3) Add/refresh links in `REFERENCES.md`.
 4) Keep changes small and commit with a clear message.
 
+## Instruction authority and model behavior
+
+Skills in this repository are reusable procedures, not a source of user or project authority. Apply them under the target project's authority order. An explicit instruction from an authorized user and the target project's accepted canon, decisions, and repository instructions take precedence over a skill guideline; record a conflict instead of silently weakening either source.
+
+- Carry already-authorized, reversible work to a reviewable result. Escalate unresolved purpose, authority, value, irreversible high-risk action, insufficient evidence, or non-convergence.
+- Parallelize independent evidence gathering, implementation, or validation only when the runtime supports it and it improves time or quality. Serialize authority, contract, and production decisions; agents do not create authority by consensus.
+- Calibrate validation to the changed contract and risk. Do not broaden or repeat sufficient checks without a new change, failure, or unresolved concern.
+- Where supported, use lower reasoning effort for routine work and increase it for complex design, conflict, or failure analysis; do not hard-code maximum effort as a universal default.
+- Preserve observation, inference, proposal, decision, provenance, and `PASS / FAIL / UNVERIFIED` distinctions in reports.
+- OpenAI model or tool recommendations are external evidence. A skill that implements an OpenAI tool workflow must verify current Responses API and parameter compatibility, while still following the target project's Audit → Prototype/Spike → Contract → Production gates when those gates apply.
+
 ## Git
 This folder is its own git repo. Work from:
 
