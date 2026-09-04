@@ -65,6 +65,8 @@ description: Use when embedding and customizing Unicorn Studio interactive anima
 ```
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Target platform: Webflow / Framer / coded site?
 - Is the scene above-the-fold? (affects script placement and lazyload)
 - Mobile support requirement + acceptable quality/FPS

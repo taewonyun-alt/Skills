@@ -7,7 +7,7 @@
     "url": "https://developers.openai.com/api/docs/guides/latest-model",
     "role": "external implementation evidence; not project authority"
   },
-  "scope": "Tracked files and repository instructions in the 2026-09-05 checkout; no production deployment or paid provider call",
+  "scope": "Tracked files and repository instructions in the 2026-09-05 checkout; direct OpenAI runtime signature scan; no production deployment or paid provider call",
   "domains": {
     "instruction_authority": {
       "result": "PASS"
@@ -25,7 +25,7 @@
       "result": "PASS"
     },
     "responses_tool_workflow": {
-      "result": "UNVERIFIED"
+      "result": "N/A"
     },
     "reporting_fidelity": {
       "result": "PASS"
@@ -35,7 +35,7 @@
     "CLAUDE.md; audits/openai-latest-model-audit-2026-09-05.md; generated 113-skill CSV matrix"
   ],
   "remaining_gaps": [
-    "Static inventory cannot prove project-context compatibility or runtime behavior for every reusable skill."
+    "Compatibility with an unknown future target project's unseen instructions and runtime compliance remain outside this text audit."
   ],
   "sequence_preserved": "Audit -> Prototype/Spike -> Contract -> Production where applicable",
   "provenance": [

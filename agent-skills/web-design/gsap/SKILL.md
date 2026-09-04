@@ -77,6 +77,8 @@ gsap.timeline({
 ```
 
 ## What to ask the user (if requirements unclear)
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Is this a static site or SPA (React/Next/Vue)? Any page transitions?
 - Do we need scroll-driven sections (pin/scrub/snap)?
 - Performance constraints (mobile support, reduced motion)?

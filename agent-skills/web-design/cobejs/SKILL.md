@@ -77,6 +77,8 @@ window.addEventListener("resize", () => {
 ```
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Globe size and placement (hero, section, card)?
 - Marker locations + colors (brand-aligned)?
 - Interaction needs (drag to rotate vs. ambient spin)?

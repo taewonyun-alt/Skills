@@ -65,19 +65,20 @@ cancellation, failed-payment, refund, or accidental-renewal decision trees, load
    - Archive only when separately authorized and only after the `SENT` read-back passes. Remove `INBOX` from every message in every in-scope thread, then re-read all thread labels and require `inbox_remaining: []`.
    - Never treat a send response, a single-message label update, or an archived thread as proof that the customer outcome is resolved.
 
-8. Create one canonical Codex thread per drafted email:
+8. Create one canonical Codex thread per drafted email only when the user explicitly requests a task or handoff:
    - Before creating a thread, search existing Codex threads by customer name/email, Gmail thread id, latest message id, draft id, and short issue phrase.
-   - For every saved Gmail draft, create a separate project thread for that specific email unless an existing matching thread is already present.
+   - A request to inspect or draft email does not by itself authorize creating another task. When task creation is requested, create a separate project thread for that specific email unless an existing matching thread is already present.
    - If duplicate support threads already exist for the same customer issue, keep the canonical thread with the newest customer message, freshest draft state, or active follow-up context. Archive or close stale duplicate threads before creating or reporting any new handoff.
    - Report the canonical thread id and any archived duplicate thread ids in the final handoff or status report.
    - Choose the most relevant project or workspace. If uncertain, use the user's general support workspace and explain the ambiguity.
    - Pass the thread the sender, subject, Gmail thread id, latest message id, draft id, customer ask, risk notes, and next investigation/action.
    - The project thread must not send email, mutate production/account/billing data, click email links, download unsafe attachments, or make external changes without explicit user confirmation.
 
-9. Set an hourly unresolved follow-up for each drafted support case:
+9. Set an hourly unresolved follow-up only when the user explicitly requests recurring monitoring or reminders:
+   - A request to inspect, draft, create a task, or hand off a case does not by itself authorize an automation.
    - The follow-up must ask the request owner whether the case is resolved yet.
    - It must briefly restate what the customer wants and what the request owner should do next.
-   - It must repeat every hour until the request owner confirms the case is resolved; do not use a single delayed summary.
+   - It repeats every hour until the request owner confirms the case is resolved, the case is closed through authoritative read-back, or the automation reaches a failure that requires user action. Stay quiet while the monitored state is unchanged unless the user explicitly requested periodic status messages.
    - When the request owner confirms the ticket is resolved, archive the canonical Codex support thread/chat with the thread archive tool, stop or pause unresolved follow-ups for that ticket, and report the archived thread id. Do not archive Gmail conversations as part of this cleanup.
 
 10. Report cleanly:

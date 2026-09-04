@@ -146,8 +146,7 @@ Policy:
 - Replace motion with **instant state** + subtle opacity.
 - Disable scroll-scrub/pin.
 
-Ask the user:
-- “Do you want a reduced-motion mode that disables all non-essential motion?”
+Enable the reduced-motion behavior by default. Ask a question only if the request explicitly requires a different accessibility tradeoff that cannot be resolved from the project context.
 
 ---
 
@@ -171,6 +170,8 @@ Ask the user:
 ---
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - What’s the brand lane: Stripe (polished), Linear (minimal), Apple (cinematic), Vercel (developer/product)?
 - What are the key moments? (hero, scroll story, hover cards, nav transitions)
 - Any performance constraints? (mobile, low-end devices)

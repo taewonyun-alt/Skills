@@ -39,6 +39,8 @@ mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transp
 - Expecting masks to work on elements with `overflow: hidden` but no visible content behind.
 
 ## Questions to ask when specs are missing
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Which direction should the fade go?
 - How wide should the fade edges be?
 - Is this for images, text, or a container background?
