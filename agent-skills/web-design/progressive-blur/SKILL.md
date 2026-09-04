@@ -232,6 +232,8 @@ description: Create a layered CSS progressive blur (top or bottom) using multipl
 - Ensure `pointer-events: none` stays to avoid blocking clicks.
 
 ## Questions to ask when specs are missing
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Should the blur start from the top or bottom?
 - How tall should the blur area be?
 - Is performance a concern on lower-end devices?

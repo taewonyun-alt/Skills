@@ -91,6 +91,8 @@ requestAnimationFrame(animate);
 - If `prefers-reduced-motion: reduce`, render a still frame (no RAF) or slow updates.
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Is this decorative (hero) or functional 3D (product viewer)?
 - Target devices: mobile? older iPhones?
 - Asset format availability (glTF, HDRI, textures) and file size constraints

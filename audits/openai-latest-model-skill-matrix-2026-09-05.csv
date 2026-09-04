@@ -1,114 +1,114 @@
 skill,authority,completion_escalation,validation,delegation,reasoning,openai_workflow,reporting,provenance
-agent-skills/codex/article-prompts-to-skills/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,UNVERIFIED,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/audit-reference-originality/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,PASS,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/audit-verify-explain-grade-5/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/browser-video-recording/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/customer-email-draft-threads/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/customer-support-verification/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,PASS,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/daily-ui-inspiration-capture/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/elevenlabs-tts/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,PASS,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/generate-reference-inspired-brand-worlds/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/html-to-interaction-prompts/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/optimize-web-animations/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/performance-profiling/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/stitched-full-page-capture/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/video-to-superprompt/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/write-like-meng-on-x/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/codex/x-bookmark-quote-posts/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/customer-support/handle-saas-account-cases/SKILL.md,UNVERIFIED,PASS,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/customer-support/handle-saas-billing-cases/SKILL.md,UNVERIFIED,PASS,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/author-game-levels/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-game-audio-feedback/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-game-camera-controls/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-game-inventory/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-hybrid-game-assets/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-isometric-arpg/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-mobile-threejs-games/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/build-threejs-enemy-systems/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/create-game-vfx/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/design-action-combat/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/design-game-encounters/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/optimize-threejs-games/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/ship-web-games/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/test-playable-web-games/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/game-development/tune-enemy-ai/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/media/aura-asset-images/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/media/unsplash-asset-images/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/ui/design-first-ui-prompting/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/agency-grid-layout-minimal/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/ambient-section-particles/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/animation-on-scroll/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/animation-systems/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/atmosphere-background/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/background-grid-webgl/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/beam-glow-states/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/beautiful-shadows/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/blue-cloudy-clean-modern/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/blue-laser-clean-glass-layout/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/book-serif-index/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/bright-green-tech-system-webgl/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/cinematic-gsap-lenis-motion-system/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/cinematic-scroll-storytelling/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/clean-minimal-beige-light-mode/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/cobejs/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/company-logos/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/container-lines/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/corner-diagonals/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/corner-lasers/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/css-alpha-masking/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/css-border-gradient/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/dark-blue-contrasting-clean/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/dark-glass-clean-layout/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/dither-background/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/dither-laser-dark-mode/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/documentary-brutalist-agency/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/editorial-portfolio-chapters/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/editorial-service-booking/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/editorial-tech/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/framed-grid-layout/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/framed-tech-dark-border-gradient/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/funky-purple-container-tech/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/glass-dark-mode-clock/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/glass-dark-ui/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/globe-gl/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/globe-particles/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/gooey-blob-system/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/gsap/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/high-contrast-skeuomorphic-clean/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/image-first-grid-layout/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/landing-page/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/light-mode-paper-technical/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/liquid-metal-border/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/marquee-loop/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/masked-reveal/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/matterjs/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/mesh-gradient-dark-blue-clean/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/nested-container-clean-agency/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/nested-container-frames/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/number-details/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/operational-enterprise-ai/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/orange-clean-paper-saas/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/pricing-page/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/product-proof-saas/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/progressive-blur/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/reveal-hover-effect/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/scroll-progress-timeline/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/scroll-scrubbed-visual-sequence/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/scroll-scrubbed-word-reveal/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/scroll-world-storytelling/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/shaders-cursor-ripples/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/skeuomorphic-ui/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/solar-duotone-bold/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/split-layout-technical/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/staggered-word-reveal/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/tailwindcss/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/tech-green-dark-mode-modern/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/technical-wireframe-info-layout/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/thinking-orbs/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/threejs/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/unicorn-studio/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/vantajs/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/webgl-3d-object/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/webgl-landing-steering/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
-agent-skills/web-design/webgl-laser/SKILL.md,UNVERIFIED,UNVERIFIED,UNVERIFIED,N/A,N/A,N/A,UNVERIFIED,Static instruction scan; semantic conflicts require project-context review
+agent-skills/codex/article-prompts-to-skills/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/audit-reference-originality/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/audit-verify-explain-grade-5/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/browser-video-recording/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/customer-email-draft-threads/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/customer-support-verification/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/daily-ui-inspiration-capture/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/elevenlabs-tts/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/generate-reference-inspired-brand-worlds/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/html-to-interaction-prompts/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/optimize-web-animations/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/performance-profiling/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/stitched-full-page-capture/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/video-to-superprompt/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/write-like-meng-on-x/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/codex/x-bookmark-quote-posts/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/customer-support/handle-saas-account-cases/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/customer-support/handle-saas-billing-cases/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/author-game-levels/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-game-audio-feedback/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-game-camera-controls/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-game-inventory/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-hybrid-game-assets/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-isometric-arpg/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-mobile-threejs-games/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/build-threejs-enemy-systems/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/create-game-vfx/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/design-action-combat/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/design-game-encounters/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/optimize-threejs-games/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/ship-web-games/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/test-playable-web-games/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/game-development/tune-enemy-ai/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/media/aura-asset-images/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/media/unsplash-asset-images/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/ui/design-first-ui-prompting/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/agency-grid-layout-minimal/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/ambient-section-particles/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/animation-on-scroll/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/animation-systems/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/atmosphere-background/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/background-grid-webgl/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/beam-glow-states/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/beautiful-shadows/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/blue-cloudy-clean-modern/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/blue-laser-clean-glass-layout/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/book-serif-index/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/bright-green-tech-system-webgl/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/cinematic-gsap-lenis-motion-system/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/cinematic-scroll-storytelling/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/clean-minimal-beige-light-mode/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/cobejs/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/company-logos/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/container-lines/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/corner-diagonals/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/corner-lasers/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/css-alpha-masking/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/css-border-gradient/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/dark-blue-contrasting-clean/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/dark-glass-clean-layout/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/dither-background/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/dither-laser-dark-mode/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/documentary-brutalist-agency/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/editorial-portfolio-chapters/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/editorial-service-booking/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/editorial-tech/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/framed-grid-layout/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/framed-tech-dark-border-gradient/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/funky-purple-container-tech/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/glass-dark-mode-clock/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/glass-dark-ui/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/globe-gl/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/globe-particles/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/gooey-blob-system/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/gsap-scrolltrigger-storytelling/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/gsap/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/high-contrast-skeuomorphic-clean/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/image-first-grid-layout/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/landing-page/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/light-mode-paper-technical/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/liquid-metal-border/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/marquee-loop/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/masked-reveal/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/matterjs/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/mesh-gradient-dark-blue-clean/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/nested-container-clean-agency/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/nested-container-frames/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/number-details/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/operational-enterprise-ai/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/orange-clean-paper-saas/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/pricing-page/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/product-proof-saas/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/progressive-blur/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/reveal-hover-effect/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/scroll-progress-timeline/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/scroll-scrubbed-visual-sequence/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/scroll-scrubbed-word-reveal/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/scroll-world-storytelling/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/shaders-cursor-ripples/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/skeuomorphic-ui/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/solar-duotone-bold/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/split-layout-technical/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/staggered-word-reveal/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/tailwindcss/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/tech-green-dark-mode-modern/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/technical-wireframe-info-layout/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/thinking-orbs/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,PASS,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/threejs/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/unicorn-studio/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/vantajs/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/webgl-3d-object/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/webgl-landing-steering/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result
+agent-skills/web-design/webgl-laser/SKILL.md,PASS,PASS,PASS,N/A,N/A,N/A,N/A,Full-text conflict scan; candidates manually reviewed; target-project runtime behavior remains outside this result

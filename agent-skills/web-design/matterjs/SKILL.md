@@ -60,6 +60,8 @@ render.mouse = mouse;
 - Clear engine and world if needed.
 
 ## Questions to ask when specs are missing
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - What viewport size and scaling should the canvas use?
 - Are we using Matter.Render or a custom renderer?
 - Do you want mouse/touch drag interaction?

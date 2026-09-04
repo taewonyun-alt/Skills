@@ -105,6 +105,8 @@ description: Create an on-scroll animation trigger using IntersectionObserver wi
 - Animations not running because the element is already in view before observer init.
 
 ## Questions to ask when specs are missing
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Should animations run once or every time the element re-enters?
 - How far before entering the viewport should they start?
 - What motion style (fade, slide, blur, scale) do you want?

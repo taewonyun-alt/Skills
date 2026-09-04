@@ -50,6 +50,8 @@ description: Use when adding animated WebGL background effects with Vanta.js (se
 - Create effect in `useEffect`, store in ref, call `destroy()` on unmount.
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Which effect (waves, birds, fog, net, etc.) and brand colors?
 - Must it run on mobile? If yes, what’s acceptable FPS/quality?
 - Is it behind text (needs contrast/readability)?

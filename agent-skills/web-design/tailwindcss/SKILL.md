@@ -73,6 +73,8 @@ const toneClass = {
 ```
 
 ## What to ask the user
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Framework/build tool (Next/Vite/Remix/Webflow export)?
 - Do we need a design system (tokens, component library) or a one-off page?
 - Dark mode? RTL? accessibility constraints?

@@ -103,6 +103,8 @@ Don’t ask the model to “remember” taste.
 - Texture: add grain, remove smoothing
 
 ## Questions to ask (when user is vague)
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - What’s the single message of this screen?
 - What’s the hierarchy (H1 / sub / CTA)?
 - Which style lane: minimal editorial vs playful 3D vs glass UI?

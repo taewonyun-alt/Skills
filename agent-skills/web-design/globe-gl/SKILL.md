@@ -47,6 +47,8 @@ description: Use when implementing globe.gl (Globe.GL) for 3D globe data visuali
 - Use a darker globe texture for neon-style data overlays.
 
 ## Questions to ask when specs are missing
+
+First infer these choices from the request, repository context, and reversible defaults. Ask only for a missing answer that would materially change the result; otherwise proceed and state the assumption.
 - Which layers do you need (points, arcs, polygons, labels)?
 - What should the globe size be on desktop vs mobile?
 - Do you want drag/rotate interactions or a static globe?
