@@ -53,8 +53,5 @@ Skills in this repository are reusable procedures, not a source of user or proje
 - OpenAI model or tool recommendations are external evidence. A skill that implements an OpenAI tool workflow must verify current Responses API and parameter compatibility, while still following the target project's Audit → Prototype/Spike → Contract → Production gates when those gates apply.
 
 ## Git
-This folder is its own git repo. Work from:
-
-```bash
-cd /Users/mengto/clawd/@MengTo/Skills
-```
+This folder is its own git repository. Run repository commands from the current
+checkout root; do not assume a particular user's absolute filesystem path.
